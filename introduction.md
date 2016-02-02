@@ -1,1 +1,6 @@
-I love Ruby and JavaScript!
+* Git
+* JavaScript
+* Ruby
+* Scala
+* Groovy
+* Killing history using git rebase
